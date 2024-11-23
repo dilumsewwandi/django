@@ -1,2 +1,2 @@
 # django
-Print Hellow World
+Hello World
